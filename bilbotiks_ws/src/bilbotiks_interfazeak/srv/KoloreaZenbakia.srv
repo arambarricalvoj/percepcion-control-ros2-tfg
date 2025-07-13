@@ -1,0 +1,6 @@
+# PertzepzioProba.KoloreaZenbakia.srv
+
+# Ez dira daturik behar eskaeran
+---
+int8 kolorea   # Primer número de salida
+int8 zenbakia   # Segundo número de salida

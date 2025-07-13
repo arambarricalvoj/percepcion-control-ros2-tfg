@@ -1,0 +1,37 @@
+motor_kontrolatzailea:
+  ros__parameters:
+    baud_rate: 115200
+    motorren_helbideak: [128, 129, 130]
+
+servo_kontrolatzailea:
+  ros__parameters:
+    actuation_range: 300
+    pulse_width_range: [500, 2500]
+
+pertzepzio_proba_wrapper:
+  ros__parameters:
+    servoak_360: [90, 65, 105, 65]
+    cnn_modelua: "/home/bilbotiks/moverRover/bilbotiks_ws/install/bilbotiks_controller/share/bilbotiks_controller/config//modelo_100epochs.keras"
+    abiadura_azkar: 30
+    abiadura_motel: 13
+
+kontrol_proba_wrapper:
+  ros__parameters:
+    kp: 100.0
+    ki: 0.0
+    kd: 25.0
+    vel: 30
+    izena: "izena"
+    eskuina: [-90.0, -67.5] #[-90, -45]
+    ezkerra: [157.5, 180.0] #[135, 180]
+    aurrera: [-180.0, -90.0]
+
+gidatze_proba_wrapper:
+  ros__parameters:
+    focal_length: 495
+    marker_size: 0.3
+    servoak_360: [90, 65, 105, 65]
+    bira_abiadura: 25
+    atzerapena_aruco_bilatzeko: 10.0
+
+# [110, 50, 0, 180]

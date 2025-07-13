@@ -1,0 +1,7 @@
+# TakePhoto.srv
+
+# Request (vacío)
+---
+
+# Response
+sensor_msgs/Image image

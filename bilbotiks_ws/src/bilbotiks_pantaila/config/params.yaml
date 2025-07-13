@@ -1,0 +1,22 @@
+motor_kontrolatzailea:
+  ros__parameters:
+    baud_rate: 115200
+    motorren_helbideak: [128, 129, 130]
+
+servo_kontrolatzailea:
+  ros__parameters:
+    actuation_range: 300
+    pulse_width_range: [500, 2500]
+
+pertzepzio_proba_wrapper:
+  ros__parameters:
+    servoak_360: [90, 65, 105, 65]
+
+kontrol_proba_wrapper:
+  ros__parameters:
+    servoak_mugitu: True
+    motorrak_mugitu: True
+    kd: 1.5
+    kd: 6.0
+
+# [110, 50, 0, 180]

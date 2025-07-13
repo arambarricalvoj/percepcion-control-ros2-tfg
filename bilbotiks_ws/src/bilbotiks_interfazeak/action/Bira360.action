@@ -1,0 +1,11 @@
+bool noranzkoa       # Biraren noranzkoa (0: ezkerra; 1: eskuina)
+uint8 zenbakia 
+---
+# Result
+bool arrakasta           
+float64 amaierako_angelua
+float64 hasierako_angelua
+uint8 bira_kopurua
+---
+float64 oraingo_angelua  
+uint8 bira_kopurua

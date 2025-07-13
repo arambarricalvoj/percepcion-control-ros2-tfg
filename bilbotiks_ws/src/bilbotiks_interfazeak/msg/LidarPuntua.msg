@@ -1,0 +1,9 @@
+int8 tenperatura
+geometry_msgs/Vector3 azelerometroa
+geometry_msgs/Vector3 magnetometroa
+geometry_msgs/Vector3 giroskopioa
+geometry_msgs/Vector3 euler_angeluak
+geometry_msgs/Quaternion kuaternioak
+geometry_msgs/Vector3 azelerazio_lineala
+geometry_msgs/Vector3 grabitatea
+
