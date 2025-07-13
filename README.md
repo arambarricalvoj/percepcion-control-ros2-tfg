@@ -22,37 +22,7 @@ En el directorio principal encontramos:
 
 ## Fotos y vídeos
 Fotos y vídeos disponibles en la carpeta ``.images/``.
-
-<style>
-  .image-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* 2 columnas */
-    grid-template-rows: 1fr 1fr;    /* 2 filas */
-    gap: 10px;                     /* espacio entre imágenes */
-    max-width: 600px;              /* ancho máximo del recuadro */
-    margin: 0 auto;                /* centra el recuadro */
-    padding: 10px;
-    border: 2px solid #ccc;        /* borde visible */
-    background-color: #fafafa;
-  }
-  .image-grid img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;             /* ajusta imagen sin deformar */
-    border-radius: 6px;
-    display: block;
-  }
-</style>
-
-<div class="image-grid">
-  <img src="./.images/LG8_6613.jpg" alt="Foto 1">
-  <img src="./.images/LG8_6625.jpg" alt="Foto 2">
-  <img src="./.images/LG8_6987.jpg" alt="Foto 3">
-  <img src="./.images/LG8_7076.jpg" alt="Foto 4">
-</div>
-
-
-<!-- 
+ 
 <div align="center">
   <img src="./.images/LG8_6613.jpg" alt="">
 </div>
@@ -67,4 +37,4 @@ Fotos y vídeos disponibles en la carpeta ``.images/``.
 
 <div align="center">
   <img src="./.images/LG8_7076.jpg" alt="">
-</div> -->
+</div>
