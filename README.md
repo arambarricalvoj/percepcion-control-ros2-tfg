@@ -9,7 +9,7 @@
 Este repositorio recoge el Trabajo de Fin de Grado "Desarrollo de algoritmos de percepción y control en ROS2 para robótica móvil".
 
 En el directorio principal encontramos:
-- ``memoria.pdf``: memoria del TFG (pendiente de publicar).
+- ``memoria.pdf``: memoria del TFG.
 - ``bilbotiks_ws/``: workspace de ROS2 de los algoritmos desarrollados.
 - ``sim_gazeboHarmonic/``: imagen Docker personalizada y workspace de ROS2 para la simulación.
 - ``matlab/``: código MATLAB y origen de los datos para la generación de los gráficos de la memoria.
