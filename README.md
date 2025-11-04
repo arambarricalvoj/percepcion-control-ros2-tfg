@@ -6,10 +6,14 @@
 - Universidad: Escuela de Ingeniería de Bilbao - Universidad del País Vasco (UPV/EHU)
 - Curso: 2024-2025
 
-Este repositorio recoge el Trabajo de Fin de Grado "Desarrollo de algoritmos de percepción y control en ROS2 para robótica móvil".
+Este repositorio recoge el Trabajo de Fin de Grado "Desarrollo de algoritmos de percepción y control en ROS2 para robótica móvil", que obtuvo una calificación de 10 y Matrícula de Honor y el 1º Premio del eje Prosperidad en el VIII. Congreso de Estudiantes de la Universidad del País Vasco (UPV / EHU).
 
 En el directorio principal encontramos:
 - ``memoria.pdf``: memoria del TFG.
+- ``presentacion_ehuKongresua.pdf``: presentación PDF en el VIII. Congreso de Estudiantes de la EHU.
+- ``presentacion_ehuKongresua.mp4``: presentación en vídeo en el VIII. Congreso de Estudiantes de la EHU.
+- ``poster_ehuKongresua.pdf``: póster en el VIII. Congreso de Estudiantes de la EHU.
+- ``premio_ehuKongresua.pdf``: certificado del 1º Premio en el VIII. Congreso de Estudiantes de la EHU.
 - ``bilbotiks_ws/``: workspace de ROS2 de los algoritmos desarrollados.
 - ``sim_gazeboHarmonic/``: imagen Docker personalizada y workspace de ROS2 para la simulación.
 - ``matlab/``: código MATLAB y origen de los datos para la generación de los gráficos de la memoria.
