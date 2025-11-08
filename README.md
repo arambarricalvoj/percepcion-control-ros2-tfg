@@ -14,6 +14,7 @@ En el directorio principal encontramos:
 - ``presentacion_ehuKongresua.mp4``: presentación en vídeo en el VIII. Congreso de Estudiantes de la EHU.
 - ``poster_ehuKongresua.pdf``: póster en el VIII. Congreso de Estudiantes de la EHU.
 - ``premio_ehuKongresua.pdf``: certificado del 1º Premio en el VIII. Congreso de Estudiantes de la EHU.
+- ``lightningTalk_ROSConEs25.pdf``: presentación de la lightning talk expuesta en la ROSConEs 2025 en Barcelona el 5 de noviembre de 2025.
 - ``bilbotiks_ws/``: workspace de ROS2 de los algoritmos desarrollados.
 - ``sim_gazeboHarmonic/``: imagen Docker personalizada y workspace de ROS2 para la simulación.
 - ``matlab/``: código MATLAB y origen de los datos para la generación de los gráficos de la memoria.
